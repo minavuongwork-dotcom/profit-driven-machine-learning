@@ -1,0 +1,21 @@
+# Local datasets
+data/*.xlsx
+data/*.csv
+
+# Generated model outputs
+results/*.xlsx
+results/*_best_pipeline.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environments and settings
+.env
+.venv/
+venv/
+.spyproject/
+.ipynb_checkpoints/
+
+# Generated profiling reports
+*.html
